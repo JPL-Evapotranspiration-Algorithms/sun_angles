@@ -14,7 +14,8 @@ classifiers = [
     "Operating System :: OS Independent",
 ]
 dependencies = [
-    "numpy"
+    "numpy",
+    "solar-apparent-time"
 ]
 
 requires-python = ">=3.11"
